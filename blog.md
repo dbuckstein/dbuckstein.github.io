@@ -2,9 +2,11 @@
 permalink: /blog/
 ---
 
+[Home](../)
+
 # Blog
 
-This is the blog page.
+This is where the blog posts live.
 
 <ul>
   {% for post in site.posts %}
