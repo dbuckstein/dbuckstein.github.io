@@ -2,6 +2,15 @@
 permalink: /blog/
 ---
 
-## Blog
+# Blog
 
-This will be the blog page.
+This is the blog page.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

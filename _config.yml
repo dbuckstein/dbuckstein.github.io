@@ -1,9 +1,18 @@
-title: Daniel S. Buckstein
-description: I thoroughly enjoy graphics programming, animation programming, quaternions and other math-heavy things.
+title: "Daniel S. Buckstein"
+description: "I thoroughly enjoy graphics programming, animation programming, quaternions and other math-heavy things."
+highlighter: rouge
 markdown: kramdown
 kramdown: 
     math_engine: mathjax
     parse_block_html: true
+    syntax_highlighter: rouge
+    syntax_highlighter_opts:
+        default_lang: c
+        span:
+            line_numbers: false
+        block:
+            line_numbers: true
+            start_line: 1
 exclude: 
     - node_modules
     - vendor/bundle/
