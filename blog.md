@@ -4,9 +4,13 @@ permalink: /blog/
 
 [Home](../)
 
+[Projects](/projects/)
+
+[About](/about/)
+
 # Blog
 
-This is where the blog posts live.
+This page is where the blog posts live.
 
 <ul>
   {% for post in site.posts %}
