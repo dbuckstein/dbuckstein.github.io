@@ -1,5 +1,5 @@
 ---
-permalink: /blog/
+permalink: /about/
 ---
 
 <!--
@@ -21,20 +21,11 @@ permalink: /blog/
 
 [Home](../)
 
+[Blog](/blog/)
+
 [Projects](/projects/)
 
-[About](/about/)
 
+# About
 
-# Blog
-
-This page is where the blog posts live.
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+This page has info about me.
