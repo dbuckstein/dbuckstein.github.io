@@ -24,13 +24,10 @@ excerpt: "The first blog post: Dan is excited about this website."
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
-[Home](/blog/../)
-
-[Blog](/blog/)
-
-[Projects](/projects/)
-
-[About](/about/)
+* [Home](/blog/../)
+* [Blog](/blog/)
+* [Projects](/projects/)
+* [About](/about/)
 
 
 # Hello Jekyll

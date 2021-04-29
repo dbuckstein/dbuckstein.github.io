@@ -19,11 +19,9 @@ permalink: /projects/
 -->
 
 
-[Home](../)
-
-[Blog](/blog/)
-
-[About](/about/)
+* [Home](../)
+* [Blog](/blog/)
+* [About](/about/)
 
 
 # Projects
